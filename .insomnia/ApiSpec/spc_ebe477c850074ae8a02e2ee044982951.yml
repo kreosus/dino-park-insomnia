@@ -1,7 +1,7 @@
 _id: spc_ebe477c850074ae8a02e2ee044982951
 type: ApiSpec
 parentId: wrk_56ba6e2d48d24f50a071cafa70a3ae15
-modified: 1654698478071
+modified: 1655988993176
 created: 1649317912103
 fileName: Dino Park
 contents: |-
@@ -19,7 +19,7 @@ contents: |-
     - url: https://mockbin.org/request/v1
   tags:
     - name: dinosaurs
-      description: Dinosaurs of Dino Park
+      description: Dinosaurs of Dino Park and I am editing this further
   paths:
     /dinosaurs:
       get:
